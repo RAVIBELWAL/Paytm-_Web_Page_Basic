@@ -1,6 +1,6 @@
 # Paytm-_Web_Page_Basic
 <br>
-<b>This is Just A Frontend Copy Of Paytm Mall</b> 
+<b>This is Just A Copy Of Paytm Mall Web</b> 
 <br>
 
 <p align="center">
@@ -11,7 +11,7 @@
 HTML ,CSS, Bootstraps, Js
 
 <p align="center">
- <img src="style/hcbj.png"/>
+ <img src="style/hcb.png"/>
 </p>
 
 ## Screenshots
