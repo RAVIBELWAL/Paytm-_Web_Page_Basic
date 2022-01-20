@@ -2,6 +2,8 @@
 <br>
 <b>This is Just A Copy Of Paytm Mall Web</b> 
 <br>
+https://ravibelwal.github.io/Paytm-_Web_Page_Basic/
+<br>
 
 <p align="center">
  <img src="style/ptm.jpg"/>
